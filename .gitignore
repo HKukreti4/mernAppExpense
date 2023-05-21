@@ -1,0 +1,14 @@
+# Logs
+
+
+node_modules
+
+
+
+# Editor directories and files
+*.env 
+* node_modules
+*/node_modules
+.env.local
+/.env
+
